@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+		 * (Emma Behymer)
+		 * (PlayerControllerX.cs)
+		 * (Homework #3)
+		 * (This is the script for the Plane. It allows for the Plane to move forward and for it to tilt)
+		 */
+
 public class PlayerControllerX : MonoBehaviour
 {
     public float speed;

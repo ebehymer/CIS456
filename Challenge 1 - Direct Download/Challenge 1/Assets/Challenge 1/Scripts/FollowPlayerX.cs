@@ -1,6 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+/*
+		 * (Emma Behymer)
+		 * (FollowPlayerX.cs)
+		 * (Homework #3)
+		 * (This is the script for the Camera & it allows for the Camera to follow the plane)
+		 */
+
 
 public class FollowPlayerX : MonoBehaviour
 {
